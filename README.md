@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Misha</h1>
+<h1 align="center">Hi 👋, I'm FullStack Web Developer</h1>
 - 🌱 I’m currently learning **TS, SQL, SSD, NESTJS**
 
 - 👨‍💻 All of my projects are available at [https://mikhailkolomoitsev.github.io/my-projects-page/](https://mikhailkolomoitsev.github.io/my-projects-page/)
