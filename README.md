@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FullStack Web Developer</h1>
-- 🌱 I’m currently learning **TS, SQL, SSD, NESTJS**
+- 🌱 I’m currently learning **FE Leadearship**
 
 - 👨‍💻 All of my projects are available at [https://mikhailkolomoitsev.github.io/my-projects-page/](https://mikhailkolomoitsev.github.io/my-projects-page/)
 
