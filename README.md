@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://mikhailkolomoitsev.github.io/my-projects-page/](https://mikhailkolomoitsev.github.io/my-projects-page/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **FE Stack Techs**
 
-- 📫 How to reach me **mihon.testosterone@gmail.com, https://t.me/Rchbtch98**
+- 📫 How to reach me **mihon.testosterone@gmail.com, https://t.me/mykhailo_elmejor**
 
 - ⚡ Fun fact **Fun fact: Watermelons make me to be on the Dark Side of the Force**
 
